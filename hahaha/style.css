@@ -1,11 +1,9 @@
-body {
-    background:#eaeaea;
-    display:flex;
-    justify-content:center;
-    margin-top:20px;
-    font-family:sans-serif;
-  }
-canvas {
-    background:white;
-    border:2px solid #333;
+body { 
+  background:#111; 
+  margin:0; 
+}
+canvas { 
+  display:block; 
+  margin:auto; 
+  background:#222;
 }
